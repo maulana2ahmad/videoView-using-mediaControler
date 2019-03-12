@@ -2,7 +2,6 @@
 
 ### sourece
 ____________
-
         VideoView videoView = (VideoView) findViewById(R.id.videoView);
 
         videoView.setVideoPath("android.resource://" + getPackageName() + "/" + R.raw.a);
